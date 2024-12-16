@@ -1,1 +1,3 @@
-# denovo_genes-tumors
+# Analysis scripts in project: denovo_genes-tumors
+## evolution_orf: Analyzing the evolution of ORF sequences and structures across primate and mammalian species
+Scripts to extract multiple alignments of ORF sequences, reconstruct ancestral sequences, evaluate the sequence conservation of ORFs and trace similar proteins across the included species. Adjusted from https://github.com/jorruior/riboseq_orfs_analyses
