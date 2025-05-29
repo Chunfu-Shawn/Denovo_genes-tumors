@@ -1,4 +1,4 @@
-# Analysis scripts in project: denovo_genes-tumors
+# Part of analysis code in project: Oncogenic Roles of Young Human De Novo Genes and Their Potential as Neoantigens in Cancer Immunotherapy
 ## evolution_orf: Analyzing the evolution of ORF sequences and structures across primate and mammalian species
 1. 1_extract_multiple_alignments: extract multiple alignments of ORF sequences
 2. 2.1_ancestral_sequences.sh, 2.2_parsing_ancestors.py: reconstruct ancestral sequences

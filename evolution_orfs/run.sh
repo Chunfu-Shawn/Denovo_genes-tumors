@@ -35,7 +35,7 @@ echo "Calculating multiple alignments. Recommend to parallelize the searches for
 python3 1_extract_multiple_alignments.py \
     -b $orf_bed_file -m $maf_dir -o $work_dir/results_120 -f yes
 
-echo "Calculating ancestral sequences and estimnate intact ORF ancestrally"
+echo "Calculating ancestral sequences and estimate intact ORF ancestrally"
 bash 2.1_ancestral_sequences.sh $work_dir/results_120 \
     $nwk_file \
     $orf_bed_file.120mammals \
